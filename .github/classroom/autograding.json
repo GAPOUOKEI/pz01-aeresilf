@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "tutu",
+      "setup": "",
+      "run": "./calculator.sh",
+      "input": "10\r\n2",
+      "output": "12",
+      "comparison": "included",
+      "timeout": 50,
+      "points": null
+    }
+  ]
+}
