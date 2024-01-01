@@ -10,9 +10,9 @@
         static void Main(string[] args)
         {
             int x = Int32.Parse(Console.ReadLine());
-            int y = Int32.Parse(Console.ReadLine());
+          
 
-            Console.WriteLine(x+y);
+            Console.WriteLine(x);
         }
     }
 }
